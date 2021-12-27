@@ -1,5 +1,3 @@
-﻿using System.Linq;
-
 int[] array1 = { 1, 2, 3, 4 };
 int[] array2 = { 1, 3, 14, 5, 7, 1, 23};
 int[] array3 = { 2, -4, 16};
